@@ -17,7 +17,7 @@ The goal of *Chemistry Bad* is to make chemistry enjoyable by blending education
 
 ## 🚀 How to Access  
 
-Simply visit the website: **[!Chemistry Bad](https://chemistry-bad.tiiny.site/)** and enjoy the content!  
+Simply visit the website: **[Chemistry Bad](https://chemistry-bad.tiiny.site/)** and enjoy the content!  
 
 ## 💡 Contributing  
 
