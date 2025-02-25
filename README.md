@@ -1,6 +1,6 @@
 # Chemistry Bad  
 
-[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://chemistry-bad.tiiny.site/)  
+[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://tirthaboss.github.io/chemistry-bad/)  
 
 **Chemistry Bad** is a fun and engaging website dedicated to sharing chemistry-related humor, memes, and lighthearted takes on the subject. Whether you're a student, teacher, or just a science enthusiast, this site offers a fresh perspective on the often challenging world of chemistry.  
 
@@ -17,7 +17,7 @@ The goal of *Chemistry Bad* is to make chemistry enjoyable by blending education
 
 ## 🚀 How to Access  
 
-Simply visit the website: **[Chemistry Bad](https://chemistry-bad.tiiny.site/)** and enjoy the content!  
+Simply visit the website: **[Chemistry Bad (https://tirthaboss.github.io/chemistry-bad/)** and enjoy the content!  
 
 ## 💡 Contributing  
 
