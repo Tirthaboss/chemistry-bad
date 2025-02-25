@@ -1,35 +1,21 @@
-# Chemistry Bad  
+# Chemistry Bad
 
-[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://tirthaboss.github.io/chemistry-bad/)  
+[![Website](https://img.shields.io/badge/Website-Live-blue)](https://tirthaboss.github.io/chemistry-bad/)
 
-**Chemistry Bad** is a fun and engaging website dedicated to sharing chemistry-related humor, memes, and lighthearted takes on the subject. Whether you're a student, teacher, or just a science enthusiast, this site offers a fresh perspective on the often challenging world of chemistry.  
+A fun and experimental chemistry-themed project hosted on GitHub Pages.
 
-## 📌 Features  
+## 🔬 About  
+**Chemistry Bad** is a web-based project that explores chemistry in a unique way. Whether it's for learning, experimentation, or just fun, this project is designed to engage users with interactive elements.
 
-- **Chemistry Memes & Jokes**: A collection of funny chemistry memes to lighten up your day.  
-- **Periodic Table Fun**: Unique takes on elements and their quirky behaviors.  
-- **Science Puns & Wordplay**: Clever chemistry-related puns that will make you laugh (or groan).  
-- **Educational but Entertaining**: While the content is humorous, it still maintains some scientific accuracy.  
+## 🚀 Live Demo  
+Check out the live version here:  
+👉 [Chemistry Bad](https://tirthaboss.github.io/chemistry-bad/)
 
-## 🎯 Purpose  
-
-The goal of *Chemistry Bad* is to make chemistry enjoyable by blending education with humor. Many students find chemistry difficult, but humor can be a great way to make learning more engaging.  
-
-## 🚀 How to Access  
-
-Simply visit the website: **[Chemistry Bad (https://tirthaboss.github.io/chemistry-bad/)** and enjoy the content!  
+## 📂 Features  
+- Interactive chemistry-related content  
+- Simple and engaging design 
 
 ## 💡 Contributing  
+Feel free to contribute! If you have suggestions or improvements, submit a pull request.
 
-If you have funny chemistry jokes, memes, or suggestions, feel free to contribute by reaching out via:  
-- **Email:** soupornochakraborty40@gmail.com
-
-## 🔥 Stay Updated  
-
-Bookmark the website and check back for new content. Science and humor go hand in hand, and we’re always updating with fresh jokes and memes.  
-
-## 🧪 Disclaimer  
-
-This website is purely for entertainment and educational fun. While we strive for accuracy, some jokes and memes might take creative liberties.  
-
-Enjoy the humor, and remember: Chemistry may be hard, but *Chemistry Bad* makes it fun!  
+Made with ❤️ by [Tirthaboss](https://github.com/tirthaboss)
